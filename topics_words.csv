@@ -1,0 +1,207 @@
+topiId,topicProb,topicName,topicWords
+0,0.00822,ethiopian,gluten_free ethiopian injera ethiopian_food bread peckham polenta woolwich coeliac east_dulwich camberwell pancake hand free dulwich eritrean ethiopian_restaurant platter stew dial_arch
+1,0.07176,floors,upstairs downstairs basement ground_floor first_floor table_upstairs downstairs_bar bar_downstairs upstairs_restaurant dining_room top_floor table_downstairs restaurant_upstairs second_floor level two_floor upstairs_bar upstairs_downstairs bar_upstairs upstairs_table
+2,0.02685,kebab,kebab romford kebab_shop meat salad doner takeaway chilli_sauce ilford wrap chicken_shish grill best_kebab shish chicken_kebab doner_kebab kebab_place kebab_house large guy
+3,0.00903,mixed,chiswick george balthazar ealing chez_bruce chapter_one trompette locale chiswick_high chapter hush acton new_york annie west_london hare charlotte white_bear common bruce
+4,0.46779,service,manager rude customer_service not_even service bad guy attitude man money lady member_staff staff_not drink busy person terrible problem hand very_rude
+5,0.04773,night Club,night club music party group fun happy_hour bouncer girl great_night entertainment great birthday dance_floor dancing dance friend_birthday security entry song
+6,0.06273,english breakfast,cafe breakfast café full_english sandwich english_breakfast sausage greasy_spoon coffee jacket_potato tea morning bacon panini toast fry omelette breakfast_lunch cup_tea little_cafe
+7,0.0053,mixed,sketch parlour toilet gallery joe pink swiss_cottage lecture_room bathroom soho_joe egg loo finchley_road guglee library angelus bradley glade pod street_grill
+8,0.01147,seafood,oyster fish dover_sole crab scott seafood lobster oyster_bar social fresh pollen_street seafood_restaurant sheekey fresh_fish sea_food seafood_platter mussel fish_pie sole loch_fyne
+9,0.06189,seafood,calamari sea_bass prawn mussel fish owner special sauce house_wine special_board wine steak king_prawn generous_portion sardine garlic bass huge generous bottle_wine
+10,0.01501,london places,kensington harrod south_kensington knightsbridge royal_albert albert_hall museum hall kensington_high gloucester_road high_street natural_history south_ken v&a concert holland_park rah prom verdi tube_station
+11,0.00618,french,patrick terroirs wine_list otto small_plate french charcuterie chez_patrick wine terrine boundary bread snail l'escargot bar france eel brawn pre_theatre excellent
+12,0.01777,BYOA,brick_lane byo byob lane own_wine curry alcohol own_alcohol corkage own_booze own_drink curry_house not_alcohol discount deal drink own_bottle aladin street next_door
+13,0.0052,japanese expensive,nobu black_cod hakkasan zuma tasting_menu soft_shell cod asian novikov wagyu_beef crab mayfair michelin_star asian_fusion amazing dark asian_food sea_bass sexy_fish duck_salad
+14,0.01054,places,liverpool_street uxbridge spitalfields tom_kitchen station spitalfields_market somerset_house liverpool cinnamon_kitchen street_station tom polo_bar city market bishopsgate l'anima close_liverpool east_london jack_ripper pietra
+15,0.0117,places,canary_wharf canal wharf blackheath gun excel dock docklands water dlr plateau grand_union colleague little_venice coy_carp fox canal_side west_india quay boat
+16,0.04142,fish n chips,fish_chip fish mushy_pea cod cod_chip batter best_fish chip_shop haddock fresh pea chip_not good_fish traditional_fish chippy fresh_fish fish_fresh haddock_chip tartar_sauce portion
+17,0.70771,service,very_good good good_value money great_value value_money food_always quality always_good local great many_time cheap regular busy favourite home week good_food few_time
+18,0.02088,lebanese,shisha lebanese falafel lebanese_food hummus middle_eastern wrap mezze lebanese_restaurant grill lamb shawarma baklava bread edgware_road halloumi maroush mint_tea mixed_grill salad
+19,0.08591,Old Fashioned,year_ago many_year traditional wonderful excellent charm wife atmosphere regular past history institution old_school reputation classic long famous diner owner service
+20,0.01833,place,oxford_street street regent_street selfridges shopping marble_arch oxford_circus just_oxford central_london oxford christopher aubaine marylebone john_lewis marylebone_high christopher_place bond_street west_end heddon_street store
+21,0.015,area,croydon concert wembley arena sri_lankan harrow event show hopper gig little_bay south_croydon purley wembley_stadium stadium albert_table karnavar spur restaurant_croydon east_croydon
+22,0.11121,mixed,cool side brunch trendy space amazing kitchen vibe small_plate sweet_potato open_kitchen great tasty pork_belly concept delicious new_restaurant spot style decor
+23,0.0032,african,shaka_zulu south_african gilgamesh crocodile african escalator decor zebra zulu exotic sala camden club kangaroo grace ostrich south_africa forge springbok champagne_cocktail
+24,0.01081,italian place,leon queensway forno finsbury_park bayswater kentish_town bella_italia northwood stroud_green westbourne_grove forum rosso piazza bayswater_tube ibleo rossella pappagone veli park_theatre change
+25,0.00746,places,square trafalgar_square dark crypt church experience orpington trafalgar national_gallery pitch_black martin surprise noir blind martin_field darkness light dans hand sight
+26,0.00341,mediterrenean,giraffe nopi ottolenghi salad cookbook aubergine communal_table koffmann koffman book shakshuka tuna providores middle_eastern babbo baby_chicken burrata petite_maison courgette_fritter berkeley
+27,0.06805,italian,pasta italian italian_restaurant italian_food italy pasta_dish tiramisu wine risotto authentic_italian ravioli lasagne bread bruschetta spaghetti carbonara sauce carluccio good_italian gnocchi
+28,0.00898,south american,mac_cheese fried_chicken chicken joe maxwell waffle southern_fried buttermilk_chicken chicken_waffle southern american wing happy_hour chicken_wing deep_fried covent_garden foxlow corn_bread cheese slaw
+29,0.00892,italian,paradise amici kennington paolo brula haweli archway hunan chef michael santini holloway_road owner luna_nuova simplicity tommyfield valentino muse prince_edward sartoria
+30,0.00685,nepalese,harvester salad_bar nepalese momo ruislip nepalese_food momos nepalese_restaurant nepal gurkha feltham salad_cart monty nepalese_dish nepali kathmandu morden rib unlimited_salad yak_yeti
+31,0.00396,goan,goa folly goan drift happenstance refinery moti_mahal empress cafe_spice namaste savio bombay_brasserie fable anthologist cyrus drake_morgan todiwala chakra sydenham girasole
+32,0.13496,small,small cosy small_restaurant gem very_small tiny street intimate little_gem little_restaurant small_place little_place corner cozy charming simple quite_small quaint restaurant_small great_little
+33,0.01167,place,shoreditch barbican hoxton old_street jugged_hare shed modern_pantry smithfield clerkenwell farringdon cow canadian smithfield_market eagle tramshed club_gascon damien_hirst farm rivington hoxton_square
+34,0.00949,places,bromley teddington chislehurst plough king_head havet bickley shamble tiger dolce_vita retro west_wickham orchard madhuwan tamasha wallington red_pepper restaurant_bromley imperial_arm imperial
+35,0.00385,european dessert,brown goring caffe_concerto richoux cafe_concerto cake brown_hotel garden pasta_brown concerto brown_covent lobster brown_not gateau tea_goring dessert chandelier lobster_omelette goring_afternoon black_forest
+36,0.01929,sea,river thames kingston view_thames boat view_river great_view river_thames river_view great_location riverside south_bank globe bridge right_river lovely_view wharf ship narrow swan
+37,0.00603,places,shepherd_bush bermondsey bermondsey_street palomar comptoir comptoir_libanais pizarro garrison tanner museum antico tagine village_east rowley duke_york bush jerusalem mezze_platter polenta london_bridge
+38,0.01224,place,crouch_end muswell_hill north_london barnet finchley opera_tavern salt_yard southgate cockfosters chateau east_finchley ember_yard green_dragon palmer_green arkley winchmore_hill wood_green melange incanto clissold_arm
+39,0.08488,date night,starter main_course starter_main lamb prawn wine dessert lamb_shank saturday_night night appetizer bottle_wine wife main_dish two_starter last_night starter_very sea_bass friday_night reservation
+40,0.00438,mixed,sophie chris sophies lal_qila warren_street agra rahman new_cross salami sophie_steakhouse capital indian_lounge miracle tottenham_court chris_brown theatre_menu alpaca lion_king outlaw calamari
+41,0.02774,american,rib wing bbq pork meat chicken_wing big_easy platter bodeans brisket coleslaw bbq_sauce buffalo_wing mac_cheese beef_rib american pork_rib side fries sauce
+42,0.0377,wine,wine cheese wine_bar bottle wine_list glass_wine glass great_wine bottle_wine good_wine platter selection food_wine cheese_board wine_selection cellar wine_glass bar selection_wine charcuterie
+43,0.00887,places,hornchurch upminster phoenix rocca woodman ember_inn green_man shepherd_dog nags_head dulwich telegraph thatched_house essex clarke village eddie eastcote dulwich_village restaurant_hornchurch towie
+44,0.00643,places,cafe_rouge westminster big_ben cinnamon_club library rouge westminster_abbey abbey park_plaza house_parliament pinner parliament charlie_chocolate caf√©_rouge james_park indigo westminster_bridge cinnamon_soho red_lion blue_boar
+45,0.01457,places,soho central_london heart_soho balans carnaby_street street dean_street west_end kingly_court restaurant_soho old_compton soho_restaurant pre_theatre theatre place_soho show soho_branch carnaby greek_street wardour_street
+46,0.14203,great meal,set_menu good_value main_course very_good three_course wine deal two_course offer starter great_value excellent_value course_meal value_money carte course_menu money food_very food_excellent dessert
+47,0.12595,coffee_shop,coffee cafe cake cat sandwich caf√© pastry coffee_shop croissant deli salad counter coffee_cake cappuccino tea latte bakery bread snack morning
+48,0.35172,mixed,taste tasty authentic good delicious sauce chicken meat spicy flavour portion cuisine beer rice very_tasty hot food_not traditional food_very fresh
+49,0.00547,japanese,chef petrus front vapiano counter amaya okonomiyaki class card benihana show fun cook cooking chef_table teppanyaki experience chocolate_sphere right_front open_kitchen
+50,0.05236,pizza,pizza topping base best_pizza dough pizza_very pizzeria oven pizza_good good_pizza ingredient crust italian pizza_pasta pizza_place great_pizza pizza_great franco_manca cheese mozzarella
+51,0.00265,indian non-veg,strada benares tamarind banana_tree bea masti strada_restaurant combo homeslice soft_shell neal_yard indian_essence atul_kochhar paper_plate goat_shoulder chicken_mushroom lentil red_letter seafood_linguine berkeley_square
+52,0.27302,staff,waitress drink chicken salad child burger kitchen cold bad hot wife hard manager bar long dessert member_staff ice_cream chef daughter
+53,0.03776,places,covent_garden pre_theatre theatre show garden central_london leicester_square west_end theatre_meal theater theatre_menu strand performance theatre_dinner play square post_theatre great_location very_busy wife
+54,0.93267,service,good service bill experience food_not starter average food_good nice very_good group waitress drink poor main_course food_very fact not_even not_very partner
+55,0.01113,places,clapham trinity battersea clapham_junction jack northcote_road clapham_common battersea_park clapham_high common jam_tree south_london gola donna_margherita lavender_hill junction abbeville hood ben_canteen balham
+56,0.0031,friday drinks,mussel tgi tgi_friday belgo belgian_beer jack_daniel belgian moules rib tgis friday tgif starter belgium fajitas covent_garden burger frites fries nacho
+57,0.00551,german,german polish vodka schnitzel sausage russian austrian dumpling polish_food goulash hungarian stein baltic georgian pierogi german_beer sauerkraut german_food bratwurst polish_restaurant
+58,0.55482,bad food,good poor bland hard bad quality standard small average chef sadly shame expensive much_better fine tasteless nice decent dry close
+59,0.09141,pub,cocktail bar drink cocktail_bar great_cocktail night amazing happy_hour great martini waitress bar_staff cocktail_menu music cocktail_great bar_area cocktail_very drink_bar bartender saturday_night
+60,0.02221,hotels,hotel_restaurant breakfast toby stay chef hilton bed carvery meat buffet toby_carvery staff_very restaurant_hotel morning breakfast_buffet very_good turkey lobby night clean
+61,0.00691,places,paul paul_cathedral barbecoa madison cathedral bread_street blackfriar first_date pauls_cathedral city view_paul pauls pork_scratching jamie_oliver duck_fat great_view short_rib pit_beef kitchen one_new
+62,0.00573,european,ping_pong roka charlotte_street pong quaglino fitzrovia sunbury charlotte bounce quaglinos table_tennis goodge_street premium_tasting lantana zafferano ninth magpie ping ball barnyard
+63,0.30617,service,very_good good good_food food_good wife street food_very staff_very central_london husband pound good_service station reasonable_price tourist very_friendly excellent night nearby close
+64,0.00769,british,jamie jamie_oliver jamie_italian westfield pasta stratford jamies fifteen oliver special jamie_restaurant italian plank olive starter bread polenta_chip jamie_olive westfield_shopping jamies_italian
+65,0.01087,carribean,jerk_chicken caribbean rice_pea goat jerk caribbean_food turtle_bay plantain rum roti curry_goat jamaican walthamstow sweet_potato goat_curry caribbean_restaurant pea rum_kitchen rum_punch west_indian
+66,0.03084,child friendly,kid child year_old daughter adult son planet_hollywood rainforest_cafe animal family cafe birthday ice_cream expensive kid_meal fun happy_birthday child_friendly rainforest young_child
+67,0.01622,pub,wetherspoons beckenham weatherspoons crystal_palace breakfast wetherspoon spoon cheap mcdonalds bexleyheath mcdonald good_value wetherspoons_pub usual wetherspoon_pub steak deal money food_drink great_value
+68,0.02429,thai,thai thai_food thai_restaurant pad_thai curry green_curry thailand noodle rice thai_green best_thai authentic_thai spring_roll busaba spicy prawn red_curry sticky_rice soup chicken_satay
+69,0.01102,japanese,ramen wagamama noodle broth soup gyoza japanese curry wagamamas japan katsu_curry pork tonkotsu udon chicken_katsu egg bowl asian_food green_tea noodle_bar
+70,0.01016,places,british_museum bloomsbury holborn museum russell_square inamo game interactive_table chiltern_firehouse fun system ipad tottenham_court interactive maltese concept holborn_tube technology cosmoba southampton_row
+71,0.00642,portuguese,zizzi portuguese portugal zizzis portuguese_food denise zizzi_restaurant portuguese_restaurant portugese zizi skewer rustica_pizza pork bread rustica mirage madeira roz_ana nata garlic_bread
+72,0.01834,french,french cote brasserie bistro french_restaurant france paris french_food frites french_bistro snail steak_frites french_onion prix_fixe onion_soup mussel french_cuisine duck vin soup
+73,0.04651,party,party event wedding team private_room wedding_reception th_birthday reception function helpful perfect group birthday_party nothing_too function_room recently private_party space much_trouble nick
+74,0.00798,place,richmond baker_street greenhouse white_swan nursery rock bibendum garden_centre muriel_kitchen bacco muriel riccardo petersham_nursery bordello restaurant_richmond langley petersham richmond_park boccon richmond_hill
+75,0.00644,mixed,surbiton hix pain_quotidien scoff_banter tota pain antelope tooting tartine bread tartines lucio organic kingston radisson_blu bowl pie lpq spread joy
+76,0.00798,place,kew_garden kew bike princi brentford gino coach_horse scandinavian greyhound smith maid_honour swedish glasshouse wimpy kew_green frank kew_bridge high_road linnea cycling
+77,0.88243,service,good very_good great nice lovely excellent tasty staff_very really_good very_tasty delicious very_nice staff_friendly good_value very_friendly not_too salad good_service waitress service_good
+78,0.00673,chinese,dim_sum dumpling sum bao royal_china bun tea yauatcha dimsum chinatown china_town chinese cheung_fun hong_kong chinese_restaurant dim roll set_menu chinese_food trolley
+79,0.00263,mixed- > cuisine?,ivy shepherd_pie celebrity grill ivy_market caprice celebs daphne garden fish_chip celeb reputation steak_tartare baked_alaska pie duck_salad market_grill chocolate_bombe bar ivy_chelsea
+80,0.02633,band,live_music music band singer entertainment jazz gin opera musician singing song performance live_band live_jazz show opera_singer stage jazz_band balcony balcon
+81,0.39957,service,great fun decor amazing cool style good interesting quirky wall seat unique experience inside real kind side part worth original
+82,0.00352,service,voucher cocktail virgin_experience course_meal gift marco_pierre side_dish sticky_toffee side deal white three_course gift_voucher staff_very champagne_cocktail supplement experience marco mpw red_letter
+83,0.00716,hotel,arfunkels premier_inn garfunkel frankie_benny holiday_inn breakfast fish_chip inn beefeater next_door f&b garfunkles salad_bar frankie burger leicester_square pasta pizza omelette starter
+84,0.00322,ice-cream,ice_bar bar ice icebar experience drink cold warm ice_sculpture ice_glass photo bubble_tea adam cape glove glass fun sculpture small cape_glove
+85,0.00812,greek,greek greek_food meze greek_restaurant greece real_greek greek_salad souvlaki moussaka kleftiko andy lamb authentic_greek cyprus dip greek_wine traditional_greek octopus cypriot mezze
+86,0.06702,pub,pub garden dog beer_garden local sunday_roast sunday_lunch roast gastro_pub local_pub bar_staff burger child kid pub_food lovely summer great recently dog_friendly
+87,0.00785,moroccan + performance,belly_dancer tagine moroccan couscous cous_cous lamb_tagine moro tagines momo morocco exmouth_market mint_tea north_african moroccan_food lamb mezze dancer belly_dancing morrocan belly
+88,0.01309,deli,salt_beef sandwich balham deli kosher sardinian reuben jewish bagel kosher_restaurant gaby john_wood golders_green valentina beef soup pickle pastrami liver salad
+89,0.01684,english (traditional),pie greenwich pie_mash rule mash gravy steak_kidney cutty_sark porter liquor pudding traditional game traditional_english pastry tourist british meat_pie english traditional_british
+90,0.0078,vietnamese,pho vietnamese vietnamese_food spring_roll vietnamese_restaurant vietnam roll summer_roll noodle soup broth prawn noodle_soup beef pork bun banh authentic_vietnamese squid viet
+91,0.01027,place,museum gallery exhibition tate_modern wanstead art tate albert imperial_war v&a benugo court national_portrait member collection chancery cafe tate_britain provender portrait
+92,0.10977,service,cheap bad owner toilet dirty terrible food_not water basic cash pound rude awful cash_only card money horrible place_not not_place clean
+93,0.21911,service,expensive good worth experience not_cheap wife world well_worth amazing special quality pound great cost cheap husband small son pricey treat
+94,0.0625,steak,steak meat rib_eye side medium_rare fillet_steak rare sauce best_steak fries perfection good_steak steak_very sirloin grill fillet beef medium steak_chip sirloin_steak
+95,0.00291,place,gbk galvin cau chapelle skinny_fries galvin_window hilton park_lane enzo galvins trader_vic hilton_park chapel lewisham lane hyde_park podium crab_lasagne baker_street luxe
+96,0.0037,steak,hot_stone bun butter stone steak_hot ciao_bella sweet_potato flesh_bun angus_steakhouse cahoot cover_charge angus angela angus_steak ponti hot_plate rib_room steak_stone own_steak robin
+97,0.00452,place,tony gymkhana yacht trishna sherlock sherlock_holmes giovanni pepe massimo corinthia northall corinthia_hotel pino sale hazara wild_boar kid_goat lobby_lounge sherlock_fan connection
+98,0.2162,service,branch very_busy busy quickly server drink kid food_good service quick child waitress usual straight_away daughter good_service chain_restaurant fast manager bill
+99,0.00739,malaysian,malaysian laksa malaysian_food asian malaysia satay beef_rendang nasi_goreng asian_food rendang nasi_lemak curry sambal roti singapore asia indonesian roti_canai noodle penang
+100,0.22933,bar,bar drink bar_staff great night beer great_place bar_area group food_drink busy crowd staff_very few_drink friday_night friendly space nice snack drink_food
+101,0.01881,michelin,tasting_menu michelin_star wine sommelier foie_gras amuse_bouche star fine_dining michelin_restaurant lunch_menu gavroche course_tasting taster_menu petit_four chef wife kitchen michelin course_menu cheese
+102,0.00193,british,meat_fruit maze ledbury ice_cream heston gordon_ramsay kitchen tipsy_cake gordon_ramsey gordon fat_duck ramsay maze_grill ramsey fruit hyde_park tour_kitchen mandarin_oriental dinner_heston pigeon
+103,0.00537,places,brasserie_blanc lido haymarket mint_leaf maida_vale spice_market brumus raymond_blanc cafe_royal oscar_wilde pharmacy ten_room blanc harold_pinter phantom_opera villiers_street warwick warrington majesty_theatre villiers
+104,0.02222,vegetarian,vegan vegetarian veggie healthy raw organic vegetarian_restaurant vegetarian_food salad gate sweet_potato curry smoothie meat_eater weight vegan_food tofu not_vegetarian vegan_option mildred
+105,0.08098,pub,pub beer fish_chip pint ale pub_food pie real_ale drink good_selection local bar_staff good_beer pub_very pub_great traditional_pub london_pub pub_grub pub_good good_pub
+106,0.01906,north indian,lamb_chop tayyabs chop grill biryani family naan punjab kebab southall starter punjabi taste butter_chicken curry paneer karahi pakistani lahore mixed_grill
+107,0.01233,movie,cinema film tudor_barn movie marianne eltham barn tudor altitude farleigh popcorn screen golf arthur feast upstairs masala_grill ticket belair_house ground
+108,0.00898,brazilian,meat brazilian skewer buffet salad_bar cabana brazil salad beef sausage rodizio brazilian_food round brazilian_restaurant side preto cut red cut_meat green
+109,0.04103,discount,voucher deal taste_card tastecard groupon_voucher offer groupon discount full_price groupon_deal card course_meal half_price voucher_not worth website amazon_local wowcher_deal voucher_deal glass_wine
+110,0.02809,buffet,buffet dessert buffet_style selection jimmy ice_cream variety desert section buffet_food station drink chinese self_service fresh child buffet_restaurant food_not money chef
+111,0.00617,places,bella_italia orangery mario palace kensington_palace park bella hyde_park kensington_garden royal garden reservation park_terrace royal_garden dessert toilet line kensington field marco_polo
+112,0.00425,italian,polpo small_plate meatball italian_tapa cicchetti arancini tozi tapa tapas_style concept bocca bar lupo fritto_misto venetian pizzette small_dish bone_marrow tapa_style brigade
+113,0.10022,mixed,chef wine_list dessert wine bread flavour lamb excellent ingredient delicious starter kitchen cooking beef pork ice_cream interesting cream meat perfectly
+114,0.01877,places,brixton hackney streatham bethnal_green dalston brixton_village east_london market brixton_market bumpkin student vauxhall east_end broadway_market hipster village mile_end victoria_park herne_hill streatham_hill
+115,0.01212,american,diner hot_dog milkshake dog american american_diner shake hotdog shrimp american_style fries new_york booth bubba_gump mac_cheese america film pancake music usa
+116,0.02992,fried chicken,chicken nandos nando kfc peri_peri wing sauce side whole_chicken chicken_burger halal coleslaw fast_food half_chicken chicken_chip piri_piri chicken_wing branch chicken_shop fries
+117,0.00503,argentina,gaucho steak hawksmoor meat cut wine side argentinian malbec best_steak goodman bone_marrow empanadas argentina different_cut dark waitress rib_eye starter cut_meat
+118,0.00603,indian mixed,khan hampton shampan lotus zaika babur red_fort zayna honor_oak indes maya mauritian porte_des forester sitar mughal amber_fort pink_garlic golden_oven wild_mango
+119,0.00376,indian,queue dishoom chai line long_queue wait bombay shoreditch covent_garden naan daal chicken_ruby indian_food indian black_daal worth_wait okra_fries india queue_outside calamari
+120,0.00478,european + performance,show act entertainment cabaret circus burlesque performance performer orrery proud_cabaret proud stage waitress host funny paris metro revolution entertaining martina
+121,0.0093,places,hammersmith apollo river_cafe olympia woodford grove hatch_end andover_arm petts_wood south_woodford rangrez king_street potli hammersmith_tube hammersmith_apollo west_london dove show greig chuck
+122,0.01744,stations,station train king pancras euston king_cross euston_station train_station king_station pancras_station gilbert_scott caravan platform train_home eurostar railway_station journey home booking_office euston_road
+123,0.00297,british,savoy savoy_grill grill beef_wellington american_bar pre_theatre savoy_hotel wellington gordon_ramsay gordon_ramsey kaspar sommelier chef art_deco chef_table voucher trolley kitchen drink lobster_bisque
+124,0.00612,mixed,earl_court flat_iron ice_cream popcorn special court side simple cream blackbird brickyard pound ready free_ice troubadour spinach simple_menu only_one aubergine queue
+125,0.00626,modern dining,murano barnes franco mustard angela_hartnett angela cafe_murano quo_vadis wilmington depot york_albany sonny james riva steak good east_sheen sheen jaipur abingdon
+126,0.01233,mexican,burrito mexican taco mexican_food wahaca margarita guacamole nacho mexican_restaurant tortilla salsa fajitas quesadilla tequila mexico street_food enchilada churros tex_mex cheese
+127,0.09723,english breakfast,breakfast brunch egg coffee full_english morning egg_benedict toast poached_egg bacon english_breakfast breakfast_here pancake bread sausage tea breakfast_menu breakfast_lunch omelette orange_juice
+128,0.00448,italian,spaghetti_house simpson sutton portico vacherin tortellini toscana simpson_strand uno casa_nostra regal_spice parma boyd brasserie_vacherin putney boyds region spaghetti_tree carver malcolm_john
+129,0.01364,places,park hampstead primrose_hill lake heath bull dog west_hampstead hyde_park hampstead_heath highgate old_orchard walk belsize_park orange_tree regent_park flask hill serpentine odette
+130,0.00838,lobster,lobster lobster_roll burger_lobster roll whole_lobster lobster_burger steak_lobster lobster_lobster salad lobster_not burger fries_salad crab concept simple half_lobster fries garlic_butter b&l chip_salad
+131,0.01957,dessert,ice_cream chocolate cake crepe cream sweet mad_hatter dessert flavour hot_chocolate waffle milkshake white_chocolate theme savoury cupcake sanderson brownie gelato macaroon
+132,0.00512,europian,arbutus wild_honey las_iguanas ffiona salon cheam les_deux iguanas iguana las_iguana happy_hour grumpy_mole fiddie eco megan cibo pakhtoon las forest_hill che
+133,0.28879,date night,experience birthday amazing lovely staff_very husband fantastic dessert special wife beautiful very_attentive excellent attentive very_good partner helpful brilliant delicious highly
+134,0.00855,airport,airport heathrow flight terminal pheasant lounge airport_hotel heathrow_airport bath_road plane sofitel heathrow_hotel holiday security lhr holiday_inn airport_restaurant park_inn kaniz portion
+135,0.00486,places,wolseley piccadilly art_deco delaunay zedel piccadilly_circus criterion brasserie circus brasserie_zedel central_london picadilly jermyn_street large american_bar grand dining_room delauney corbin_king just_piccadilly
+136,0.03079,snacks,afternoon_tea tea sandwich cake scone high_tea afternoon champagne lovely pastry sandwich_cake ritz experience finger_sandwich sandwich_scone jam clotted_cream delicious treat pot_tea
+137,0.06769,service,service_charge bill charge tip charge_bill bill_not expensive not_service bill_service automatically discretionary_service pound discretionary charge_not optional optional_service waitress gratuity beer cost
+138,0.03448,sports bar,game sport football twickenham match screen rugby sport_bar match_day big_screen football_match irish pool_table cricket beer fan guinness rugby_match irish_pub stadium
+139,0.00771,wine,prosecco brunch deal unlimited_prosecco bubble bottomless_brunch unlimited bellini angler champagne glass sunday_brunch bottomless offer bottomless_prosecco avenue free_prosecco corrigan grill south
+140,0.00258,british,fera claridges tasting_menu snack claridge story dabbous simon_rogan texture dairy art_deco simon clove_club typing_room l'enclume foyer hedone kitchen lovage offer
+141,0.00671,korean,korean korean_food bbq kimchi bibimbap korean_restaurant bowling kimchee beef lane new_malden korean_bbq bulgogi korea meat grill bowl dumpling rice noodle
+142,0.09154,open restuarant,terrace garden summer inside sun weather conservatory beautiful courtyard sunny_day lovely setting table_outside outdoor_seating heater outside_seating roof_terrace outside_table outside_area patio
+143,0.00079,brunch,aqua_shard shard aqua brunch breakfast afternoon_tea bar toilet st_floor service_charge aquashard lobster_benedict tower_bridge starter david tea nd_floor three_course main_course brunch_menu
+144,0.00822,tower,tower_bridge bridge tower_london london_bridge tower katherine_dock view_tower dock marina tower_hill smith katharine_dock great_view great_location dickens_inn boat thames_tower chop_house grill london_tower
+145,0.03993,chinese,chinese duck chinese_restaurant chinese_food noodle crispy_duck china_town chinatown sweet_sour rice soup roast_duck pork beef china fried_rice best_chinese pancake prawn spring_roll
+146,0.00381,peruvian,ceviche peruvian pisco_sour peruvian_food cuban peru lima coya peruvian_restaurant south_american cuba pisco sea_bass asia_cuba ceviches octopus chotto_matte quinoa colombian peruvian_cuisine
+147,0.05869,indian,curry indian_restaurant indian_food indian naan chicken_tikka best_indian curry_house lamb spice india masala naan_bread chicken rice poppadoms tandoori indian_cuisine spicy biryani
+148,0.01874,sushi,sushi japanese sashimi japanese_food japanese_restaurant tempura roll miso_soup japan sake bento_box green_tea sushi_sashimi fish salmon sushi_restaurant rice sushi_bar wasabi chef
+149,0.00622,hard rock,hard_rock paddington cafe paddington_station memorabilia hyde_park rock hrc vault sticky_finger music lancaster_gate island_grill guitar world paddington_area nacho rolling_stone rock_cafe close_paddington
+150,0.00682,persian,persian kebab persian_food bread iranian persian_restaurant rice lamb stew iran saffron_rice iranian_food saffron persian_cuisine iranian_restaurant grill flat_bread naan middle_eastern oven
+151,0.01023,places,putney cereal kilburn earlsfield wandsworth alma crowne_plaza shakshuka mill_hill milk roxie putney_bridge emile umami bowl imli greedy_cow cereal_killer kilburn_high holloway_road
+152,0.01132,places,chelsea king_road fulham sloane_square bluebird fulham_road botanist colbert fulham_broadway medlar blue_elephant parson_green square saatchi_gallery phene king imperial_wharf chelsea_flower chutney_mary show
+153,0.00909,places,mayfair langans green_park albion whisky park_lane shepherd_market cigar boisdale scottish haggis whiskey heart_mayfair theo theo_randall langan bond_street mayfair_restaurant mew lane
+154,0.07793,burger,burger fries bun byron onion_ring best_burger milkshake sweet_potato burger_fries cheese meat burger_very chicken_burger good_burger burger_chip five_guy honest_burger side burger_good patty
+155,0.00889,south indian,south_indian dosa thali dosas indian_food masala_zone indian masala_dosa india curry chettinad chutney vegetarian thalis street_food sagar indian_restaurant paneer quilon grand_thali
+156,0.05825,sunday_place,roast sunday_lunch sunday_roast roast_beef gravy beef pudding yorkshire_pudding roast_potato meat sticky_toffee sunday veg potato roast_dinner gastro_pub scotch_egg lamb pork dining_room
+157,0.03331,beer,beer craft_beer ale pint cider brewery real_ale tap selection_beer selection great_selection great_beer beer_selection lager good_beer beer_great beer_tap beer_good range_beer brew
+158,0.01524,pizza,pizza_express pizza prezzo express voucher pizza_hut dough_ball garlic_bread pasta branch salad tesco_voucher pizza_pasta wildwood calzone goat_cheese fire_stone chain_restaurant pasta_dish hut
+159,0.00908,place,south_bank waterloo london_eye waterloo_station southbank skylon old_vic slug_lettuce canteen arch station royal_festival national_theatre festival_hall hall railway_arch county_hall cut southwark bank
+160,0.09086,home_delivery,takeaway delivery driver home_delivery phone online take_away hot delivery_service takeaway_here delivery_time free call website cold takeaway_food refund box delivery_driver customer_service
+161,0.02444,place,city colleague business_lunch client city_london bank office henry fleet_street meeting davy heart_city leadenhall_market work_colleague heart history banker d'argent city_restaurant vault
+162,0.16807,ambeince,reservation very_busy busy booking noisy great great_food amazing good group delicious fun popular loud atmosphere full advance fantastic table_not noise
+163,0.00271,duck sushi,duck_waffle waffle th_floor sushi_samba lift heron_tower pig_ear enfield signature_dish sushisamba duck glass_lift ear gherkin elevator foie_gras signature_duck city samba small_plate
+164,0.00754,places,wimbledon stick wimbledon_village village pix danish ametsa basque launceston_place catford tennis raynes_park fox_grape stick_sushi common restaurant_wimbledon skewer aya collier_wood pintxos
+165,0.00551,service,bill pancake breakfast_club fish_pie old_dutch service_charge bill_restaurant jackson_rye maple_syrup pie american_breakfast full_monty fridge savoury_pancake limeyard rib sweet_potato fish_finger high_street dutch
+166,0.00909,places,victoria victoria_station station tom pimlico buckingham_palace belgravia wicked palace close_victoria scalzo theatre victoria_coach rubens coach green_pea coach_station grosvenor pre_theatre bbar
+167,0.19061,fast_food,fast_food counter queue salad fresh sandwich branch wrap store tasty healthy fast quick box great hot quick_bite snack cheap bite
+168,0.0045,piano,pianist palm_court piano piano_player fondue joe_allen bingham live_piano connaught langham roux_landau piano_playing piano_music swiss live_pianist copper grand_piano landau artesian helene_darroze
+169,0.1169,fine dining,main_course wine pudding soup risotto bread excellent salmon fish good lovely steak special sea_bass goat_cheese dessert starter coffee cheese duck
+170,0.68514,staff,owner amazing very_friendly delicious home great friendly highly definitely_back fantastic great_food lovely excellent friendly_staff chef one_best perfect great_service wonderful staff_very
+171,0.16589,service,very_good excellent wine wine_list good service great main_course perfect service_very food_service not_cheap superb service_excellent one_best glass ambience outstanding bill attentive
+172,0.32695,service,night family staff_very starter party very_good food_service food_excellent food_very saturday_night child first_time last_night wife group main_course food_always good_service good_food occasion
+173,0.13987,dining experience,flavour delicious dessert cuisine interesting taste experience unique combination favourite ingredient amazing selection concept chef flavor dish_not ice_cream unusual modern
+174,0.0108,ambeince,view_london great_view window_table amazing_view bar shard window_seat lift city table_window view_amazing brasserie th_floor stunning_view fantastic_view hutong oxo_tower drink oblix night
+175,0.03772,art_food,champagne dining_room beautiful ritz bar glass_champagne grand decor surroundings wonderful stunning setting elegant dorchester experience gorgeous high_ceiling ceiling special_occasion art_deco
+176,0.01789,spanish,tapa spanish paella spain chorizo tapa_bar sangria tortilla patatas_bravas tasca spanish_food octopus sherry tapa_dish spanish_restaurant wine croquette tapas spanish_tapa ham
+177,0.0242,turkish,turkish turkish_restaurant turkish_food kebab bread grill meze salad meat turkey lamb platter shish baklava dip pide hummus mezze rice chicken_shish
+178,0.01939,place,market borough_market camden hill london_bridge portobello_road notting_hill camden_town camden_market portobello borough stall portobello_market hill_gate shard camden_lock bridge saturday street_food applebee
+179,0.00985,places,islington upper_street angel casino prison mercury clink upper sadlers_well prisoner angel_tube pera frederick heliot mem_laz almeida gallipoli trullo security highbury
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,*********************************************************************************************************************************
